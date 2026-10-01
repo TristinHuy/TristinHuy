@@ -1,4 +1,4 @@
-<img width="374" height="211" alt="armored-core-armored-core-6" src="https://github.com/user-attachments/assets/4e7b81ec-d707-494f-a14a-ea1f97e9048f" /><h1 align="center">TristinHuy just landed.</h1>
+<img width="700" alt="armored-core-armored-core-6" src="https://github.com/user-attachments/assets/4e7b81ec-d707-494f-a14a-ea1f97e9048f" /><h1 align="center">TristinHuy just landed.</h1>
 
 <p align="center">
   <code>Main system, activating retard mode.</code>
@@ -52,4 +52,3 @@ Cybersecurity
     ├── Honeypot
     ├── Threat Detection
     └── AI / ML for Security
-<img width="700" alt="armored-core-armored-core-6" src="https://github.com/user-attachments/assets/b750a2a0-0cfd-4494-926b-1720801681d3" />
