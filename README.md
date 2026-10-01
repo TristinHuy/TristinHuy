@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=TristinHuy&fontSize=70&fontColor=58A6FF&height=120&animation=fadeIn" alt="TristinHuy">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=TristinHuy&fontSize=36&fontColor=58A6FF&height=70&animation=fadeIn" alt="TristinHuy">
 </p>
 
-<p align="center"><b>just landed.</b></p>
+<p align="center"><b>has landed.</b></p>
 <p align="center">
   <code>Main system, activating retard mode.</code>
 
