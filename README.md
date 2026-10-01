@@ -1,4 +1,4 @@
-<img width="700" alt="armored-core-armored-core-6" src="https://github.com/user-attachments/assets/4e7b81ec-d707-494f-a14a-ea1f97e9048f" /><h1 align="center">TristinHuy just landed.</h1>
+<img width="100%" alt="armored-core-armored-core-6" src="https://github.com/user-attachments/assets/4e7b81ec-d707-494f-a14a-ea1f97e9048f" /><h1 align="center">TristinHuy just landed.</h1>
 
 <p align="center">
   <code>Main system, activating retard mode.</code>
