@@ -52,4 +52,4 @@ Cybersecurity
     ├── Honeypot
     ├── Threat Detection
     └── AI / ML for Security
-<img width="374" height="211" alt="armored-core-armored-core-6" src="https://github.com/user-attachments/assets/b750a2a0-0cfd-4494-926b-1720801681d3" />
+<img width="700" alt="armored-core-armored-core-6" src="https://github.com/user-attachments/assets/b750a2a0-0cfd-4494-926b-1720801681d3" />
