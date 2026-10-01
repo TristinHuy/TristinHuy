@@ -1,4 +1,4 @@
-align="center">TristinHuy just landed.</h1>
+<p align="center">TristinHuy just landed.</h1>
 
 <p align="center">
   <code>Main system, activating retard mode.</code>
