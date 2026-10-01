@@ -4,7 +4,7 @@
 
 <p align="center"><b>has landed.</b></p>
 <p align="center">
-  <code>Main system, activating retard mode.</code>
+  <code>Main system, activating procrastination mode.</code>
 
 <p align="center">
   <b>Cybersecurity Student @ UEH</b><br>
@@ -20,7 +20,6 @@
 ---
 
 ## 🛡️ About Me
-
 - 🎓 Cybersecurity student at **University of Economics Ho Chi Minh City (UEH)**
 - 🔐 Interested in **Blue Team, SOC & Incident Response**
 - 🌐 Learning **Web Security & Penetration Testing**
@@ -28,31 +27,27 @@
 - 🤖 Researching **AI-assisted Threat Detection** & **Deploying AI**
 - 🐧 Linux enthusiast
 - 🔧 Currently turning every broken thing into a lab
-
 ---
-
 ## 🔍 What I'm Learning
-
 ```text
 Cybersecurity
-├── 🛡️ Blue Team / SOC
+├──🛡️ Blue Team / SOC
 │   ├── SIEM
 │   ├── Detection
 │   └── Incident Response
-│
-├── 🌐 Web Security
+├──🌐 Web Security
 │   ├── SQL Injection
 │   ├── Command Injection
 │   ├── File Upload
 │   └── Burp Suite
-│
-├── 🦠 Malware Analysis
+├──🦠 Malware Analysis
 │   ├── Static Analysis
 │   ├── Dynamic Analysis
 │   ├── Ghidra
 │   └── x64dbg
-│
-└── 🤖 Security Research
-    ├── Honeypot
-    ├── Threat Detection
-    └── AI / ML for Security
+└──🤖 Security Research
+│   ├── Honeypot
+│   ├── Threat Detection
+│   └── AI / ML for Security
+└──🛜 Network
+    └── CCNA
