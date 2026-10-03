@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=TristinHuy&fontSize=36&fontColor=58A6FF&height=70&animation=fadeIn" alt="TristinHuy">
 </p>
 
-<p align="center"><b>has landed.</b></p>
 <p align="center">
   <code>Got a job for you, 621.</code>
 
