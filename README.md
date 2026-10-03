@@ -4,7 +4,7 @@
 
 <p align="center"><b>has landed.</b></p>
 <p align="center">
-  <code>Main system, activating procrastination mode.</code>
+  <code>Got a job for you, 621.</code>
 
 <p align="center">
   <b>Cybersecurity Student @ UEH</b><br>
