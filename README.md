@@ -18,14 +18,6 @@
 
 ---
 
-## 🛡️ About Me
-- 🎓 Cybersecurity student at **University of Economics Ho Chi Minh City (UEH)**
-- 🔐 Interested in **Blue Team, SOC & Incident Response**
-- 🌐 Learning **Web Security & Penetration Testing**
-- 🧪 Exploring **Malware Analysis & Reverse Engineering**
-- 🤖 Researching **AI-assisted Threat Detection** & **Deploying AI**
-- 🐧 Linux enthusiast
-- 🔧 Currently turning every broken thing into a lab
 ---
 ## 🔍 What I'm Learning
 ```text
