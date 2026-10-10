@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Breaking+things+to+understand+them;Building+security+labs;Still+debugging+at+2AM...">
 </p>
 
-</p><img width="650" height="600" alt="final" src="https://github.com/user-attachments/assets/17c63152-da6a-410b-af40-07034f5c22af" />
+</p><img width="1280" height="720" alt="final" src="https://github.com/user-attachments/assets/17c63152-da6a-410b-af40-07034f5c22af" />
 
 ---
 
